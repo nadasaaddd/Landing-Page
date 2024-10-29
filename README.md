@@ -12,6 +12,7 @@ This project is a dynamic landing page designed to train and demonstrate skills 
 - **Active Section Highlighting**: Highlights the section currently in view as you scroll.
 - **Scroll to Top Button**: A button that appears after scrolling down, allowing users to quickly return to the top of the page.
 - **Responsive Design**: The layout is designed to work well on various screen sizes.
+- - **Active NavLink Highlighting**: Highlights the NavLink currently in view as you scroll.
 
 ## Getting Started
 
